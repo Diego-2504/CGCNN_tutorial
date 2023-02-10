@@ -38,7 +38,7 @@ This jupyter notebook includes most of the scripts that come in the repository, 
 
 
 ### 2. Features
-In this jupyter notebook I explain which features are going to be attributed to the nodes and edges of the crystal > > graphs.
+In this jupyter notebook I explain which features are going to be attributed to the nodes and edges of the crystal graphs.
 
 ### 3. Load_data
 In order to load the data and create the cif files, I use an interface to the Materials
