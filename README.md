@@ -1,4 +1,4 @@
-# Tutorial-for-CGCNN
+# CGCNN tutorial
 In the following notebooks I describe the model from 
 __[Crystal Graph Convolutional Neural Networks](https://arxiv.org/abs/1710.10324)__ 
 by __[Tian Xie](https://github.com/txie-93)__ who was advised by __[ Prof. Jeffrey Grossman](https://dmse.mit.edu/people/jeffrey-c-grossman)__.
