@@ -17,7 +17,7 @@ The notebooks are sequenced, in the following order of appearance:
 > 2. Features
 > 3. Load_data
 > 4. Load_targets
-> 5. Pl_model
+> 5. Complete_model
 
 ## Notebooks overview
 
@@ -47,7 +47,7 @@ Project with pymatgen called MPRester, in the jupyter notebook I explain how to 
 ### 4. Load targets
 In the same way I explain how to use the interface to load the properties to be predicted from the model.
 
-### 5. Pl_model
+### 5. Complete_model
 In this jupyter notebook I explain how Pytorch-Lightning can be used to facilitate the training code.
 in order to train the model directly on gpu (for those who do not have gpu it is possible to change the model configuration to cpu). If you wish to visualize
 the training with tensorboard, you should install the package first, run the training and then execute the following command line in the terminal:
