@@ -10,7 +10,7 @@ If you want to run the jupyter notebooks you should install Anaconda and run the
 
 To activate the environment:
 
-```conda activate cgcnn```
+```conda activate cgcnn_tutorial```
 
 The notebooks are sequenced, in the following order of appearance:
 > 1. Crystal_graphs
